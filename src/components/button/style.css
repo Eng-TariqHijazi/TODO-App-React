@@ -1,0 +1,25 @@
+.todo .btn {
+  padding: 10px 10px;
+  background-color: #bab7b7;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.todo .btn-red {
+  background-color: #4e4feb;
+  padding: 5px 60px;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #fff;
+  box-shadow: #4e4feb55 10px 10px 27px -5px, #4e4feb80 10px 7px 20px -8px;
+}
+.todo .btn-row {
+  margin: 0 auto;
+  width: fit-content;
+  color: #fff;
+  font-weight: 400;
+  padding: 6px 24px;
+  background-color: #068fff;
+}
+.todo .completed {
+  background-color: #16a824;
+}

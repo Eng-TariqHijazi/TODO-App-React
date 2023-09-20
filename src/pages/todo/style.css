@@ -1,0 +1,53 @@
+.todo {
+  background-color: #d8e1e4;
+}
+.todo  header {
+  width: 100%;
+  height: 150px;
+  background-color: #000000;
+}
+.todo .content {
+  max-width: 700px;
+  width: 90%;
+  transform: translate(0, -130px);
+  margin: 0 auto;
+}
+.todo h1 {
+  text-align: center;
+  font-weight: lighter;
+  color: #fff;
+  font-family: sans-serif;
+}
+.todo  .left {
+  align-items: start !important;
+}
+.todo .header {
+  padding: 0 0 30px 20px;
+}
+.todo  .table-header {
+  background-color: #EEE;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 0px;
+  text-align: center;
+}
+.todo .table-header p{
+    font-size: 18px ;
+    color: #a0b2b8;
+}
+
+.todo  .list{
+    width: 100%;
+}
+.todo  .i1,.i2,.i3{
+  width: 130px;
+}
+.todo  .i1{
+  margin-left: 50px;
+  text-align: left;
+}
+.todo  .i2{
+  margin-left: 50px;
+  text-align:center;
+}

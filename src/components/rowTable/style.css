@@ -1,0 +1,29 @@
+.todo .row .content-table{
+    padding: 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.todo  .row{
+    border-bottom: 1px solid #a0b2b8;
+    width: 100%;
+    text-align: center;
+}
+.todo  .icon{
+    margin: 0 auto;
+    color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #55555520;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d10f0f20;
+}
+
+.todo .row .content-table .text{
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+}
