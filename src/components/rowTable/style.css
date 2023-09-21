@@ -20,6 +20,7 @@
     align-items: center;
     justify-content: center;
     background-color: #d10f0f20;
+    cursor: pointer;
 }
 
 .todo .row .content-table .text{

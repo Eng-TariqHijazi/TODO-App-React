@@ -23,3 +23,11 @@
 .todo .completed {
   background-color: #16a824;
 }
+.center{
+ margin: 40px auto;
+ background-color: #751960 !important;
+ color: white;
+}
+.none{
+  display: none;
+}
